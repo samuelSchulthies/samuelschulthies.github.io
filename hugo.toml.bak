@@ -1,8 +1,0 @@
-baseURL = 'https://samuelschulthies.github.io'
-locale = 'en-us'
-title = 'Samuel Schulthies'
-theme = 'blowfish'
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
