@@ -1,1 +1,0 @@
-# samuelschulthies.github.io
