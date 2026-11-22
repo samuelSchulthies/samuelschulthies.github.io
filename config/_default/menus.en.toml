@@ -17,7 +17,7 @@
 
 [[main]]
   name = "Resume"
-  url = "/static/schulthiesSam_ResumeFoxLinks_Oct2026.pdf"
+  url = "/schulthiesSam_ResumeFoxLinks_Oct2026.pdf"
   weight = 20
 
 [[main]]
