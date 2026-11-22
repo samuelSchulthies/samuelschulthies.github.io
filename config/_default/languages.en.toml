@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Blowfish"
+title = "Samuel Schulthies | CFX Technical Director"
 
 [params]
   displayName = "EN"
@@ -15,12 +15,12 @@ title = "Blowfish"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-   name = "Samuel Schulthies"
-   email = "samuelschulthies@gmail.com"
-   image = "img/blowfish_logo.png"
-   imageQuality = 96
-   headline = "Hello there!"
-   bio = "My name is Sam! I'm currently studying character FX in Brigham Young University's computer science and animation program, with an expected graduation in August 2027. I'm passionate about fur/cloth simulation and creating elegant tools to solve technical problems. I love hiking, mountains, and animals! I interned with the Pixar system's team summer 2025 in IT support. I'm currently an animation system adminstrator for BYU. I have done 3D work during my schooling and have touched every part of the animation pipeline, from concept to lighting/rendering"
+#   name = "Samuel Schulthies"
+#   email = "samuelschulthies@gmail.com"
+#   image = "img/blowfish_logo.png"
+#   imageQuality = 96
+#   headline = "Hello there!"
+#   bio = "My name is Sam! I'm currently studying character FX in Brigham Young University's computer science and animation program, with an expected graduation in August 2027. I'm passionate about fur/cloth simulation and creating elegant tools to solve technical problems. I love hiking, mountains, and animals! I interned with the Pixar system's team summer 2025 in IT support. I'm currently an animation system adminstrator for BYU. I have done 3D work during my schooling and have touched every part of the animation pipeline, from concept to lighting/rendering"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },

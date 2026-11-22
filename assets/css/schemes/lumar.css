@@ -1,3 +1,15 @@
+/* @font-face {
+  font-family: "Futura";
+  src: url("/fonts/Futura.ttc") format("ttc");
+  font-weight: normal;
+  font-style: Futura-CondensedMedium;
+  font-display: swap;
+} */
+
+/* header .text-base{
+  font-size: 1.5rem;
+} */
+
 :root {
   --color-neutral: 253, 242, 215;
   --color-neutral-50: 253, 242, 215;

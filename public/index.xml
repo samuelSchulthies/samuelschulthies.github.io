@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blowfish</title>
+    <title>Samuel Schulthies | CFX Technical Director</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Blowfish</description>
+    <description>Recent content on Samuel Schulthies | CFX Technical Director</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>samuelschulthies@gmail.com (Samuel Schulthies)</managingEditor>
@@ -13,20 +13,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1313/posts/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>samuelschulthies@gmail.com (Samuel Schulthies)</author>
-      <guid>http://localhost:1313/about/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/blog/samiscool/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>samuelschulthies@gmail.com (Samuel Schulthies)</author>
-      <guid>http://localhost:1313/blog/samiscool/</guid>
+      <guid>http://localhost:1313/posts/about/</guid>
       <description></description>
       
     </item>
