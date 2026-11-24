@@ -9,7 +9,17 @@
     <managingEditor>samuelschulthies@gmail.com (Samuel Schulthies)</managingEditor>
     <webMaster>samuelschulthies@gmail.com (Samuel Schulthies)</webMaster>
     <copyright>© 2026 Samuel Schulthies</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 10:27:56 -0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Nov 2026 12:24:00 -0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Demo Reel</title>
+      <link>http://localhost:1313/demoreel/</link>
+      <pubDate>Tue, 24 Nov 2026 12:24:00 -0700</pubDate>
+      <author>samuelschulthies@gmail.com (Samuel Schulthies)</author>
+      <guid>http://localhost:1313/demoreel/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Raytracer</title>

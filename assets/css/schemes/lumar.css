@@ -1,3 +1,5 @@
+/* custom */
+
 /* @font-face {
   font-family: "Futura";
   src: url("/fonts/Futura.ttc") format("ttc");
@@ -43,9 +45,9 @@ body {
   font-family: "Jost", sans-serif;
 }
 
-article.relative.isolate h1.landing-rise-1 {
-  color: #fa955e !important;
-}
+/* end custom */
+
+/* begin lumar color theme */
 
 :root {
   --color-neutral: 253, 242, 215;

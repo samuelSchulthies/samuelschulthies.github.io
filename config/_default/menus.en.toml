@@ -10,10 +10,25 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
+
 [[main]]
-  name = "Home"
-  pageRef = "/"
+  name = "Demo Reel"
+  url = "/demoreel/" 
   weight = 10
+
+[[main]]
+  identifier = "github"
+  pre = "GitHub"
+  title = "GitHub"
+  url = "https://github.com/samuelSchulthies" 
+  weight = 30
+
+[[main]]
+  identifier = "linkedin"
+  pre = "LinkedIn"
+  title = "LinkedIn"
+  url = "https://www.linkedin.com/in/samschulthies/" 
+  weight = 40
 
 [[main]]
   name = "Resume"
@@ -23,7 +38,7 @@
 [[main]]
   name = "About"
   pageRef = "about" 
-  weight = 30
+  weight = 50
 
 #[[main]]
 #  name = "example sub-menu 1"

@@ -71,3 +71,9 @@ enableEmoji = true
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[privacy]
+  [privacy.vimeo]
+    disable = false
+    enableDNT = false
+    simple = false 
