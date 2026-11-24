@@ -10,6 +10,43 @@
   font-size: 1.5rem;
 } */
 
+h1 {
+  font-size: clamp(2.5rem, 5vw, 3.75rem) !important;
+  line-height: 1.05;
+}
+
+table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+table td:first-child {
+  width: 50%;
+  vertical-align: top;
+}
+
+table td:first-child img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@font-face {
+  font-family: "Jost";
+  src: url("/fonts/Jost-latin-variable.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: "Jost", sans-serif;
+}
+
+article.relative.isolate h1.landing-rise-1 {
+  color: #fa955e !important;
+}
+
 :root {
   --color-neutral: 253, 242, 215;
   --color-neutral-50: 253, 242, 215;
