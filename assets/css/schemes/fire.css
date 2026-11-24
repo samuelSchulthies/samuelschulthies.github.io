@@ -21,6 +21,24 @@ table td:first-child img {
   height: auto;
 }
 
+@font-face {
+  font-family: "Jost";
+  src: url("/fonts/Jost-latin-variable.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: "Jost", sans-serif;
+}
+
+article.relative.isolate h1.landing-rise-1 {
+  color: #fa955e !important;
+}
+
+
+
 :root {
   --color-neutral: 255, 255, 255;
   /* Stone */
