@@ -17,7 +17,7 @@ enableStructuredBreadcrumbs = false
 
 replyByEmail = false
 
-mainSections = ["projects"]
+mainSections = ["code", "cfx"]
 # robots = ""
 
 disableImageOptimization = false
@@ -128,8 +128,8 @@ forgejoDefaultServer = "https://codeberg.org"
   showTableOfContents = false
   showCards = false
   orderByWeight = false
-  groupByYear = true
-  cardView = false
+  groupByYear = false
+  cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
 

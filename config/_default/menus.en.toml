@@ -12,8 +12,8 @@
 
 
 [[main]]
-  name = "Demo Reel"
-  url = "/demoreel/" 
+  name = "Projects"
+  url = "/projects/" 
   weight = 10
 
 [[main]]
@@ -21,14 +21,14 @@
   pre = "GitHub"
   title = "GitHub"
   url = "https://github.com/samuelSchulthies" 
-  weight = 30
+  weight = 60
 
 [[main]]
   identifier = "linkedin"
   pre = "LinkedIn"
   title = "LinkedIn"
   url = "https://www.linkedin.com/in/samschulthies/" 
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Resume"
@@ -38,7 +38,7 @@
 [[main]]
   name = "About"
   pageRef = "about" 
-  weight = 50
+  weight = 30
 
 #[[main]]
 #  name = "example sub-menu 1"

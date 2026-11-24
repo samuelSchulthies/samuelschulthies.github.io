@@ -45,6 +45,10 @@ body {
   font-family: "Jost", sans-serif;
 }
 
+article.relative.isolate h1.landing-rise-1 {
+  color: #fa955e !important;
+}
+
 /* end custom */
 
 /* begin lumar color theme */
@@ -73,7 +77,7 @@ body {
   --color-primary-800: 113, 56, 52;
   --color-primary-900: 84, 43, 42;
 
-  --color-secondary-50: 242, 246, 240;
+  --color-secondary-50: 100, 135, 111;
   --color-secondary-100: 222, 233, 223;
   --color-secondary-200: 197, 216, 200;
   --color-secondary-300: 159, 187, 166;
