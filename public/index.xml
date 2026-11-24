@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Samuel Schulthies | CFX Technical Director</title>
+    <title>SAMUEL SCHULTHIES on Samuel Schulthies | CFX Technical Director</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Samuel Schulthies | CFX Technical Director</description>
+    <description>Recent content in SAMUEL SCHULTHIES on Samuel Schulthies | CFX Technical Director</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>samuelschulthies@gmail.com (Samuel Schulthies)</managingEditor>
     <webMaster>samuelschulthies@gmail.com (Samuel Schulthies)</webMaster>
     <copyright>© 2026 Samuel Schulthies</copyright>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Nov 2026 10:27:56 -0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Raytracer</title>
+      <link>http://localhost:1313/projects/raytracer/</link>
+      <pubDate>Tue, 24 Nov 2026 10:27:56 -0700</pubDate>
+      <author>samuelschulthies@gmail.com (Samuel Schulthies)</author>
+      <guid>http://localhost:1313/projects/raytracer/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/raytracer/featured.png" />
+    </item>
     
     <item>
       <title></title>

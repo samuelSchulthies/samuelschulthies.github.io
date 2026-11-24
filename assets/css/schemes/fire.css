@@ -1,4 +1,26 @@
 /* Fire scheme */
+
+h1 {
+  font-size: clamp(2.5rem, 5vw, 3.75rem) !important;
+  line-height: 1.05;
+}
+
+table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+table td:first-child {
+  width: 50%;
+  vertical-align: top;
+}
+
+table td:first-child img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 :root {
   --color-neutral: 255, 255, 255;
   /* Stone */
