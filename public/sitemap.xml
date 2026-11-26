@@ -9,6 +9,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-11-24T15:35:35-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/code/</loc>
+    <lastmod>2026-11-24T10:27:56-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/projects/code/labmapper/</loc>
     <lastmod>2026-11-24T10:27:56-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -26,16 +38,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/projects/cfx/characterhda/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/code/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
