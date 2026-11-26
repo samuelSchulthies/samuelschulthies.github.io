@@ -2,6 +2,7 @@
 title: ""
 layout: "simple"
 ---
+# About Me <img src="pixarFox.png" alt="Pixar fox" style="display: inline-block; width: 80px; margin: 0;">
 
 | | |
 |-|-|

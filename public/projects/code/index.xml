@@ -12,13 +12,13 @@
     <lastBuildDate>Tue, 24 Nov 2026 10:27:56 -0700</lastBuildDate><atom:link href="http://localhost:1313/projects/code/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Raytracer</title>
-      <link>http://localhost:1313/projects/code/raytracer/</link>
+      <title></title>
+      <link>http://localhost:1313/projects/code/labmapper/</link>
       <pubDate>Tue, 24 Nov 2026 10:27:56 -0700</pubDate>
       <author>samuelschulthies@gmail.com (Samuel Schulthies)</author>
-      <guid>http://localhost:1313/projects/code/raytracer/</guid>
+      <guid>http://localhost:1313/projects/code/labmapper/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/code/raytracer/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/code/labmapper/featured.png" />
     </item>
     
   </channel>
