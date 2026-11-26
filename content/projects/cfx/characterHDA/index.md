@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Cloth Houdini Digital Asset"
 draft = false
 projectgroup = "cfx"
 +++

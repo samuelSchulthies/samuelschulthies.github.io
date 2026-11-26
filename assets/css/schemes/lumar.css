@@ -12,11 +12,13 @@
   font-size: 1.5rem;
 } */
 
+/* make landing page center name smaller */
 h1 {
   font-size: clamp(2.5rem, 5vw, 3.75rem) !important;
   line-height: 1.05;
 }
 
+/* about page keep text next to picture */
 table {
   width: 100%;
   table-layout: fixed;
@@ -33,6 +35,7 @@ table td:first-child img {
   height: auto;
 }
 
+/* furtura look alike font */
 @font-face {
   font-family: "Jost";
   src: url("/fonts/Jost-latin-variable.woff2") format("woff2");
@@ -45,20 +48,29 @@ body {
   font-family: "Jost", sans-serif;
 }
 
+/* color landing name orange */
 article.relative.isolate h1.landing-rise-1 {
   color: #fa955e !important;
 }
 
+/* color all headings orange */
 .prose h1 {
   color: #fa955e;
 }
+
+/* remove front matter headers */
+article header h1 {
+  display: none;
+}
+
+/* change font color of ribbon menu */
 
 /* end custom */
 
 /* begin lumar color theme */
 
 :root {
-  /* creme fur */
+  /* cream fur */
   --color-neutral: 253, 242, 215;
   --color-neutral-50: 253, 242, 215;
   --color-neutral-100: 245, 232, 211;
@@ -73,14 +85,14 @@ article.relative.isolate h1.landing-rise-1 {
   /* shirt green */
 	--color-primary-50: 238, 243, 239;
 	--color-primary-100: 166, 193, 172;
-	--color-primary-200: 100, 135, 111;
-	--color-primary-300: 88, 119, 98;
-	--color-primary-400: 76, 103, 84;
-	--color-primary-500: 64, 87, 71;
-	--color-primary-600: 52, 71, 58;
-	--color-primary-700: 40, 55, 45;
-	--color-primary-800: 28, 39, 32;
-	--color-primary-900: 16, 23, 19;
+	--color-primary-200: 133, 164, 142;
+	--color-primary-300: 100, 135, 111;
+	--color-primary-400: 88, 119, 98;
+	--color-primary-500: 76, 103, 84;
+	--color-primary-600: 64, 87, 71;
+	--color-primary-700: 52, 71, 58;
+	--color-primary-800: 40, 55, 45;
+	--color-primary-900: 28, 39, 32;
   /* paw red */
 	--color-secondary-50: 250, 241, 239; /* #FAF1EF */
 	--color-secondary-100: 234, 197, 192; /* #EAC5C0 */
